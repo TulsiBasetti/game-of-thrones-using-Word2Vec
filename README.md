@@ -41,11 +41,5 @@ This project utilizes Word2Vec to analyze and visualize semantic relationships b
 
 Install the necessary Python libraries using:
 
-```bash
-pip install -r requirements.txt
-
-
-
-
-
-
+  ```bash
+   pip install -r requirements.txt
