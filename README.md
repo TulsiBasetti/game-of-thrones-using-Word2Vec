@@ -44,18 +44,8 @@ Install the necessary Python libraries using:
 ```bash
 pip install -r requirements.txt
 
-## 📊 Results
 
-The trained Word2Vec model reveals interesting relationships, such as:
 
-- Similar characters clustering together.
-- Associations between locations and the characters linked to them.
-- Semantic analogies, e.g., `"King" is to "Queen" as "Man" is to "Woman"`.
-
-## 📌 Notes
-
-- Ensure that the `data/` directory contains the necessary text files before training the model.
-- Adjust hyperparameters like vector size, window size, and minimum word count in the notebook to experiment with different model configurations.
 
 
 
